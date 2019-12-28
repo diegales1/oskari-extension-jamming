@@ -21,7 +21,7 @@ public class MyActionHandler extends RestActionHandler {
 
     @Override
     public void handleGet(ActionParameters params) throws ActionException {
-        ResponseHelper.writeResponse(params, "Hello " + params.getUser().getFullName());
+        ResponseHelper.writeResponse(params, "Hola " + params.getUser().getFullName());
     }
 
     @Override

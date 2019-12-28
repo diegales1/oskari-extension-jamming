@@ -1,5 +1,5 @@
 {
-    "name" : "Example embedded map",
+    "name" : "Example embedded map 3857",
     "type" : "PUBLISHED",
     "default" : false,
     "public" : true,

@@ -13,7 +13,7 @@
             "name": "OpenMapTiles"
         },
         "en": {
-            "name": "OpenMapTiles"
+            "name": ";laksdfja;sdlkfj"
         }
     },
     "role_permissions": {
@@ -25,8 +25,8 @@
     },
     "options": {
         "attributions": [
-            {"label": "© MapTiler", "link":"https://www.maptiler.com/license/maps/"},
-            {"label": "© OpenStreetMap contributors", "link":"https://www.openstreetmap.org/copyright"}
+            {"label": "© alterado", "link":"https://www.maptiler.com/license/maps/"},
+            {"label": "© alteraddo contributors", "link":"https://www.openstreetmap.org/copyright"}
         ],
         "tileGrid": {
             "extent": [-20037508.34, -20037508.34, 20037508.34, 20037508.34],
@@ -54,14 +54,15 @@
                 "water": {
                     "featureStyle": {
                         "fill": {
-                            "color": "#c9ecfa"
+                            "color": "#ff0000"
                         }
                     }
                 },
                 "waterway": {
                     "featureStyle": {
                         "fill": {
-                            "color": "#c9ecfa"
+                            "color": "#ff0000"
+
                         }
                     }
                 },
